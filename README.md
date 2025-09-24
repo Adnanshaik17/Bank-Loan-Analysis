@@ -96,7 +96,8 @@ It provides **actionable insights** for better **lending strategies, borrower ri
 
 ---
 
-## 📸 Dashboard Preview
+![Dashboard Preview](dashboard.png)
+
   
 
 
