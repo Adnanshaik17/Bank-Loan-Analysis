@@ -1,6 +1,4 @@
-Here’s a clean, professional **README.md** structure for your LendingClub Loan Data Analysis project on GitHub:
 
-```markdown
 # 📊 LendingClub Loan Data Analysis
 
 ## 📌 Problem Statement
@@ -100,6 +98,5 @@ It provides **actionable insights** for better **lending strategies, borrower ri
 
 ## 📸 Dashboard Preview
   
-<img width="1174" height="729" alt="Dashboard Screenshot -1" src="https://github.com/user-attachments/assets/da7fa042-d500-4326-beda-2d2b1883a7e6" />
 
----
+
