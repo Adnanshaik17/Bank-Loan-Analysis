@@ -92,11 +92,8 @@ It provides **actionable insights** for better **lending strategies, borrower ri
 ## 📊 Tools Used
 - **SQL** → Data Extraction & Transformation  
 - **Power BI** → Dashboards & Visualizations  
-- **Excel/Pandas** → Preprocessing & Cleaning  
 
----
-
-![Dashboard Preview](dashboard.png)
+----
 
   
 
